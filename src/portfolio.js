@@ -77,6 +77,13 @@ const skills = {
           },
         },
         {
+                  skillName: "Test",
+                  fontAwesomeClassname: "simple-icons:figma",
+                  style: {
+                    color: "#F24E1E",
+                  },
+                },
+        {
           skillName: "Adobe Illustrator",
           fontAwesomeClassname: "simple-icons:adobeillustrator",
           style: {
