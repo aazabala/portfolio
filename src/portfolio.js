@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Amanda Zabala Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://aazabala.github.io/portfolio/#/",
   },
 };
 
@@ -554,7 +554,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://aazabala.github.io/portfolio/#/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
