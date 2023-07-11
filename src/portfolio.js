@@ -49,6 +49,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
+  {
+    name: "GitHub",
+    link: "https://github.com/aazabala",
+    fontAwesomeIcon: "fa-github", 
+    backgroundColor: "#181717", 
+  }
 ];
 
 const skills = {
